@@ -9,7 +9,6 @@ GIT INSTALL
 GitHub for Windows https://windows.github.com GitHub for Mac https://mac.github.com
 
 Git distributions for Linux and POSIX systems are available on the official Git SCM web site. Git for All Platforms http://git-scm.com
-<<<<<<< HEAD
 
 CREATE REPOSITORIES
 Start a new repository or obtain one from an existing URL
@@ -18,8 +17,6 @@ Creates a new local repository with the specified name
 $ git clone [URL]
 Downloads a project and its entire version history
 
-=======
->>>>>>> parent of a43eddf (Create and Configure sections swapped)
 CONFIGURE TOOLING
 Configure user information for all local repositories
 $ git config --global user.name "[name]"
